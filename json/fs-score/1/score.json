@@ -1,0 +1,1874 @@
+[
+  [
+    [
+      "3",
+      "Attila Bertok"
+    ],
+    {
+      "timeElapsed": "2.616389 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 431.7,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 75.1,
+        "effort": 191.61,
+        "arrival": 77.1
+      },
+      "leadingCoef": 3.33998372,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:36:59Z",
+      "total": 967,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "784258.0000 km^2 s",
+      "place": "1",
+      "fractions": {
+        "time": 1,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.69601483,
+        "effort": 1,
+        "arrival": 1
+      }
+    }
+  ],
+  [
+    [
+      "94",
+      "Olav Opsanger"
+    ],
+    {
+      "timeElapsed": "2.638611 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 407,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 73.4,
+        "effort": 191.61,
+        "arrival": 67.4
+      },
+      "leadingCoef": 3.36423883,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:38:19Z",
+      "total": 931,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "789954.0000 km^2 s",
+      "place": "2",
+      "fractions": {
+        "time": 0.94263801,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.6802595,
+        "effort": 1,
+        "arrival": 0.87418936
+      }
+    }
+  ],
+  [
+    [
+      "77",
+      "Gerolf Heinrichs"
+    ],
+    {
+      "timeElapsed": "2.721389 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 362,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 75.2,
+        "effort": 191.61,
+        "arrival": 63
+      },
+      "leadingCoef": 3.33893417,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:43:17Z",
+      "total": 883,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "784012.0000 km^2 s",
+      "place": "3",
+      "fractions": {
+        "time": 0.83848032,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.69694161,
+        "effort": 1,
+        "arrival": 0.81712062
+      }
+    }
+  ],
+  [
+    [
+      "52",
+      "Olav Olsen"
+    ],
+    {
+      "timeElapsed": "2.874722 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 304.7,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 107.9,
+        "effort": 191.61,
+        "arrival": 72.1
+      },
+      "leadingCoef": 3.04812238,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:37:29Z",
+      "total": 868,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "715727.0000 km^2 s",
+      "place": "4",
+      "fractions": {
+        "time": 0.70563498,
+        "reach": 1,
+        "distance": 1,
+        "leading": 1,
+        "effort": 1,
+        "arrival": 0.93514916
+      }
+    }
+  ],
+  [
+    [
+      "39",
+      "Jonny Durand"
+    ],
+    {
+      "timeElapsed": "2.666389 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 389.2,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 51,
+        "effort": 191.61,
+        "arrival": 36.2
+      },
+      "leadingCoef": 3.71669026,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:54:59Z",
+      "total": 860,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "872712.0000 km^2 s",
+      "place": "5",
+      "fractions": {
+        "time": 0.90150537,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.47265987,
+        "effort": 1,
+        "arrival": 0.4695201
+      }
+    }
+  ],
+  [
+    [
+      "6",
+      "Len Paton"
+    ],
+    {
+      "timeElapsed": "2.695556 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 374,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 51.3,
+        "effort": 191.61,
+        "arrival": 31.7
+      },
+      "leadingCoef": 3.7115263,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:56:44Z",
+      "total": 840,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "871500.0000 km^2 s",
+      "place": "6",
+      "fractions": {
+        "time": 0.86619855,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.47544022,
+        "effort": 1,
+        "arrival": 0.41115435
+      }
+    }
+  ],
+  [
+    [
+      "62",
+      "Christian Voiblet"
+    ],
+    {
+      "timeElapsed": "2.810556 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 326.7,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 66.9,
+        "effort": 191.61,
+        "arrival": 47.8
+      },
+      "leadingCoef": 3.45704093,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:48:38Z",
+      "total": 825,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "811744.0000 km^2 s",
+      "place": "7",
+      "fractions": {
+        "time": 0.75665878,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.62001854,
+        "effort": 1,
+        "arrival": 0.61997406
+      }
+    }
+  ],
+  [
+    [
+      "95",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "timeElapsed": "2.811667 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 326.3,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 69.1,
+        "effort": 191.61,
+        "arrival": 44.6
+      },
+      "leadingCoef": 3.42505834,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:48:42Z",
+      "total": 823,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "804235.0000 km^2 s",
+      "place": "8",
+      "fractions": {
+        "time": 0.75573132,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.64040778,
+        "effort": 1,
+        "arrival": 0.57846952
+      }
+    }
+  ],
+  [
+    [
+      "34",
+      "Glen Mcfarlane"
+    ],
+    {
+      "timeElapsed": "2.715000 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 364.9,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 44.5,
+        "effort": 191.61,
+        "arrival": 27.9
+      },
+      "leadingCoef": 3.83336449,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:57:54Z",
+      "total": 821,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "900109.0000 km^2 s",
+      "place": "9",
+      "fractions": {
+        "time": 0.84510058,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.41241891,
+        "effort": 1,
+        "arrival": 0.3618677
+      }
+    }
+  ],
+  [
+    [
+      "89",
+      "Gijs Wanders"
+    ],
+    {
+      "timeElapsed": "2.976667 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 273.1,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 92,
+        "effort": 191.61,
+        "arrival": 58.8
+      },
+      "leadingCoef": 3.14729695,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:43:36Z",
+      "total": 807,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "739014.0000 km^2 s",
+      "place": "10",
+      "fractions": {
+        "time": 0.63255623,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.85264133,
+        "effort": 1,
+        "arrival": 0.76264591
+      }
+    }
+  ],
+  [
+    [
+      "51",
+      "Gavin Myers"
+    ],
+    {
+      "timeElapsed": "3.031389 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 257.4,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 92.2,
+        "effort": 191.61,
+        "arrival": 54.9
+      },
+      "leadingCoef": 3.14532503,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:46:53Z",
+      "total": 788,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "738551.0000 km^2 s",
+      "place": "11",
+      "fractions": {
+        "time": 0.59623256,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.8544949,
+        "effort": 1,
+        "arrival": 0.71206226
+      }
+    }
+  ],
+  [
+    [
+      "73",
+      "Harrison Rowntree"
+    ],
+    {
+      "timeElapsed": "3.038333 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 255.5,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 88.4,
+        "effort": 191.61,
+        "arrival": 51.2
+      },
+      "leadingCoef": 3.18221177,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:47:18Z",
+      "total": 778,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "747212.0000 km^2 s",
+      "place": "12",
+      "fractions": {
+        "time": 0.5917407,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.81927711,
+        "effort": 1,
+        "arrival": 0.66407263
+      }
+    }
+  ],
+  [
+    [
+      "98",
+      "Gordon Rigg"
+    ],
+    {
+      "timeElapsed": "2.932222 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 286.4,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 65.1,
+        "effort": 191.61,
+        "arrival": 33.9
+      },
+      "leadingCoef": 3.48332966,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:55:56Z",
+      "total": 769,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "817917.0000 km^2 s",
+      "place": "13",
+      "fractions": {
+        "time": 0.66343325,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.60333642,
+        "effort": 1,
+        "arrival": 0.43968872
+      }
+    }
+  ],
+  [
+    [
+      "42",
+      "Trent Brown"
+    ],
+    {
+      "timeElapsed": "2.855278 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 311.1,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 43.1,
+        "effort": 191.61,
+        "arrival": 17.9
+      },
+      "leadingCoef": 3.86004637,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:06:19Z",
+      "total": 755,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "906374.0000 km^2 s",
+      "place": "14",
+      "fractions": {
+        "time": 0.72059777,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.39944393,
+        "effort": 1,
+        "arrival": 0.23216602
+      }
+    }
+  ],
+  [
+    [
+      "33",
+      "Filippo Oppici"
+    ],
+    {
+      "timeElapsed": "2.956111 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 279.2,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 53.3,
+        "effort": 191.61,
+        "arrival": 29.7
+      },
+      "leadingCoef": 3.67656366,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:57:22Z",
+      "total": 745,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "863290.0000 km^2 s",
+      "place": "15",
+      "fractions": {
+        "time": 0.64666889,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.4939759,
+        "effort": 1,
+        "arrival": 0.38521401
+      }
+    }
+  ],
+  [
+    [
+      "28",
+      "Guy Hubbard"
+    ],
+    {
+      "timeElapsed": "3.151667 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 225.2,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 93.2,
+        "effort": 191.61,
+        "arrival": 38.8
+      },
+      "leadingCoef": 3.13565424,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:54:06Z",
+      "total": 740,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "736280.0000 km^2 s",
+      "place": "16",
+      "fractions": {
+        "time": 0.52156966,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.86376274,
+        "effort": 1,
+        "arrival": 0.50324254
+      }
+    }
+  ],
+  [
+    [
+      "24",
+      "Steve Blenkinsop"
+    ],
+    {
+      "timeElapsed": "2.998056 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 266.9,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 64.9,
+        "effort": 191.61,
+        "arrival": 24.7
+      },
+      "leadingCoef": 3.48756119,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:59:53Z",
+      "total": 740,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "818911.0000 km^2 s",
+      "place": "16",
+      "fractions": {
+        "time": 0.61815358,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.60148285,
+        "effort": 1,
+        "arrival": 0.32036316
+      }
+    }
+  ],
+  [
+    [
+      "4",
+      "Jonas Lobitz"
+    ],
+    {
+      "timeElapsed": "2.997500 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 267,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 56.1,
+        "effort": 191.61,
+        "arrival": 26.2
+      },
+      "leadingCoef": 3.62934293,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:59:51Z",
+      "total": 733,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "852202.0000 km^2 s",
+      "place": "18",
+      "fractions": {
+        "time": 0.61852422,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.51992586,
+        "effort": 1,
+        "arrival": 0.33981842
+      }
+    }
+  ],
+  [
+    [
+      "2",
+      "Andrew Barnes"
+    ],
+    {
+      "timeElapsed": "3.028333 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 258.3,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 58.8,
+        "effort": 191.61,
+        "arrival": 23.4
+      },
+      "leadingCoef": 3.58355362,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:01:42Z",
+      "total": 724,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "841451.0000 km^2 s",
+      "place": "19",
+      "fractions": {
+        "time": 0.5982169,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.54494903,
+        "effort": 1,
+        "arrival": 0.30350195
+      }
+    }
+  ],
+  [
+    [
+      "83",
+      "Tullio Gervasoni"
+    ],
+    {
+      "timeElapsed": "3.041944 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 254.5,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 63.1,
+        "effort": 191.61,
+        "arrival": 21.1
+      },
+      "leadingCoef": 3.51500399,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:02:31Z",
+      "total": 722,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "825355.0000 km^2 s",
+      "place": "20",
+      "fractions": {
+        "time": 0.58941469,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.58480074,
+        "effort": 1,
+        "arrival": 0.27367056
+      }
+    }
+  ],
+  [
+    [
+      "79",
+      "Jochen Zeischka"
+    ],
+    {
+      "timeElapsed": "3.067222 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 247.5,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 64.8,
+        "effort": 191.61,
+        "arrival": 19.3
+      },
+      "leadingCoef": 3.48856789,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:04:02Z",
+      "total": 715,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "819147.0000 km^2 s",
+      "place": "21",
+      "fractions": {
+        "time": 0.57331251,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.60055607,
+        "effort": 1,
+        "arrival": 0.25032425
+      }
+    }
+  ],
+  [
+    [
+      "99",
+      "Zac Majors"
+    ],
+    {
+      "timeElapsed": "3.023611 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 259.6,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 42.8,
+        "effort": 191.61,
+        "arrival": 16.6
+      },
+      "leadingCoef": 3.86600548,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:16:25Z",
+      "total": 702,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "907773.0000 km^2 s",
+      "place": "22",
+      "fractions": {
+        "time": 0.60129329,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.39666358,
+        "effort": 1,
+        "arrival": 0.2153048
+      }
+    }
+  ],
+  [
+    [
+      "30",
+      "Phil Schroder"
+    ],
+    {
+      "timeElapsed": "3.126667 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 231.7,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 47.5,
+        "effort": 191.61,
+        "arrival": 17.4
+      },
+      "leadingCoef": 3.77937583,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:07:36Z",
+      "total": 680,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "887432.0000 km^2 s",
+      "place": "23",
+      "fractions": {
+        "time": 0.53658473,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.44022243,
+        "effort": 1,
+        "arrival": 0.22568093
+      }
+    }
+  ],
+  [
+    [
+      "72",
+      "Grant Heaney"
+    ],
+    {
+      "timeElapsed": "3.289722 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 191,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 79.2,
+        "effort": 191.61,
+        "arrival": 22.2
+      },
+      "leadingCoef": 3.28764308,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:02:23Z",
+      "total": 676,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "771968.0000 km^2 s",
+      "place": "24",
+      "fractions": {
+        "time": 0.44249002,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.73401297,
+        "effort": 1,
+        "arrival": 0.28793774
+      }
+    }
+  ],
+  [
+    [
+      "20",
+      "Nils Vesk"
+    ],
+    {
+      "timeElapsed": "3.306389 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 187.1,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 81.8,
+        "effort": 191.61,
+        "arrival": 20.1
+      },
+      "leadingCoef": 3.25592058,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:03:23Z",
+      "total": 672,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "764520.0000 km^2 s",
+      "place": "25",
+      "fractions": {
+        "time": 0.43332773,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.75810936,
+        "effort": 1,
+        "arrival": 0.26070039
+      }
+    }
+  ],
+  [
+    [
+      "37",
+      "Jon snr Durand"
+    ],
+    {
+      "timeElapsed": "3.320833 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 183.7,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 79.7,
+        "effort": 191.61,
+        "arrival": 18.6
+      },
+      "leadingCoef": 3.28142075,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:04:15Z",
+      "total": 665,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "770507.0000 km^2 s",
+      "place": "26",
+      "fractions": {
+        "time": 0.4254466,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.7386469,
+        "effort": 1,
+        "arrival": 0.24124514
+      }
+    }
+  ],
+  [
+    [
+      "58",
+      "Mark Russell"
+    ],
+    {
+      "timeElapsed": "3.533333 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 136,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 50.1,
+        "effort": 191.61,
+        "arrival": 16.3
+      },
+      "leadingCoef": 3.73217439,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:17:00Z",
+      "total": 586,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "876348.0000 km^2 s",
+      "place": "27",
+      "fractions": {
+        "time": 0.31504625,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.46431881,
+        "effort": 1,
+        "arrival": 0.21141375
+      }
+    }
+  ],
+  [
+    [
+      "14",
+      "Mikhail Karmazin"
+    ],
+    {
+      "timeElapsed": "3.482500 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 147.1,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 68.6,
+        "effort": 191.61,
+        "arrival": 16.9
+      },
+      "leadingCoef": 3.43157544,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:12:26Z",
+      "total": 585,
+      "ss": "2015-01-01T02:43:29Z",
+      "leadingArea": "805765.0000 km^2 s",
+      "place": "28",
+      "fractions": {
+        "time": 0.34060096,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.63577386,
+        "effort": 1,
+        "arrival": 0.21919585
+      }
+    }
+  ],
+  [
+    [
+      "103",
+      "Conrad Loten"
+    ],
+    {
+      "timeElapsed": "3.452500 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 153.7,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 29.6,
+        "effort": 191.61,
+        "arrival": 15.8
+      },
+      "leadingCoef": 4.12695122,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:27:09Z",
+      "total": 582,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "969045.0000 km^2 s",
+      "place": "29",
+      "fractions": {
+        "time": 0.35591691,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.27432808,
+        "effort": 1,
+        "arrival": 0.20492866
+      }
+    }
+  ],
+  [
+    [
+      "85",
+      "Kato Minoru"
+    ],
+    {
+      "timeElapsed": "3.098056 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 239.2,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 89.1,
+        "effort": 191.61,
+        "arrival": 41.6
+      },
+      "leadingCoef": 3.17516335,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T05:50:53Z",
+      "total": 527,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "745557.0000 km^2 s",
+      "place": "30",
+      "fractions": {
+        "time": 0.55407314,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.8257646,
+        "effort": 1,
+        "arrival": 0.53955901
+      }
+    }
+  ],
+  [
+    [
+      "80",
+      "Dale Regehr"
+    ],
+    {
+      "timeElapsed": "3.820000 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 77.2,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 24.9,
+        "effort": 191.61,
+        "arrival": 15.6
+      },
+      "leadingCoef": 4.22666391,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:34:12Z",
+      "total": 501,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "992459.0000 km^2 s",
+      "place": "31",
+      "fractions": {
+        "time": 0.17884837,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.23076923,
+        "effort": 1,
+        "arrival": 0.20233463
+      }
+    }
+  ],
+  [
+    [
+      "86",
+      "Takeshi Yokoyama"
+    ],
+    {
+      "timeElapsed": "3.837500 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 73.8,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 16.6,
+        "effort": 191.61,
+        "arrival": 15.5
+      },
+      "leadingCoef": 4.40722224,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:50:15Z",
+      "total": 489,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1034856.0000 km^2 s",
+      "place": "32",
+      "fractions": {
+        "time": 0.17090807,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.15384615,
+        "effort": 1,
+        "arrival": 0.20103761
+      }
+    }
+  ],
+  [
+    [
+      "40",
+      "Lukas Bader"
+    ],
+    {
+      "timeElapsed": "3.378333 h",
+      "reach": {
+        "extra": "135.064000 km",
+        "flown": "135.064000 km"
+      },
+      "breakdown": {
+        "time": 170.4,
+        "reach": 191.61,
+        "distance": 383.2,
+        "leading": 33.3,
+        "effort": 191.61,
+        "arrival": 16
+      },
+      "leadingCoef": 4.05090681,
+      "landedMade": "135.042000 km",
+      "es": "2015-01-01T06:22:42Z",
+      "total": 482,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "951189.0000 km^2 s",
+      "place": "33",
+      "fractions": {
+        "time": 0.39459207,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.30861909,
+        "effort": 1,
+        "arrival": 0.2075227
+      }
+    }
+  ],
+  [
+    [
+      "45",
+      "Geoff Robertson"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "122.536000 km",
+        "flown": "122.536000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 173.87,
+        "distance": 361.7,
+        "leading": 52.4,
+        "effort": 187.86,
+        "arrival": 0
+      },
+      "leadingCoef": 3.69212845,
+      "landedMade": "122.213000 km",
+      "es": null,
+      "total": 414,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "866945.0000 km^2 s",
+      "place": "34",
+      "fractions": {
+        "time": 0,
+        "reach": 0.90741611,
+        "distance": 0.94389353,
+        "leading": 0.48563485,
+        "effort": 0.980429,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "92",
+      "Simon Braithwaite"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "117.042000 km",
+        "flown": "117.042000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 166.07,
+        "distance": 348.3,
+        "leading": 64.6,
+        "effort": 182.21,
+        "arrival": 0
+      },
+      "leadingCoef": 3.49149256,
+      "landedMade": "116.650000 km",
+      "es": null,
+      "total": 413,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "819834.0000 km^2 s",
+      "place": "35",
+      "fractions": {
+        "time": 0,
+        "reach": 0.86670842,
+        "distance": 0.90892484,
+        "leading": 0.5987025,
+        "effort": 0.95094202,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "1",
+      "Yasuhiro Noma"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "129.820000 km",
+        "flown": "129.820000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 184.2,
+        "distance": 375.8,
+        "leading": 26.1,
+        "effort": 191.61,
+        "arrival": 0
+      },
+      "leadingCoef": 4.2006845,
+      "landedMade": "129.816000 km",
+      "es": null,
+      "total": 402,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "986359.0000 km^2 s",
+      "place": "36",
+      "fractions": {
+        "time": 0,
+        "reach": 0.9613277,
+        "distance": 0.98068894,
+        "leading": 0.24189064,
+        "effort": 1,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "97",
+      "Sasha Serebrennikova"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "97.085000 km",
+        "flown": "97.085000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 137.76,
+        "distance": 297.1,
+        "leading": 5.6,
+        "effort": 159.33,
+        "arrival": 0
+      },
+      "leadingCoef": 4.65934562,
+      "landedMade": "95.836000 km",
+      "es": null,
+      "total": 303,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1094056.0000 km^2 s",
+      "place": "37",
+      "fractions": {
+        "time": 0,
+        "reach": 0.71896039,
+        "distance": 0.77531315,
+        "leading": 0.05189991,
+        "effort": 0.8315328,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "96",
+      "Thomas Lindal"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "86.069000 km",
+        "flown": "86.069000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 122.12,
+        "distance": 275.1,
+        "leading": 0,
+        "effort": 152.97,
+        "arrival": 0
+      },
+      "leadingCoef": 4.83108234,
+      "landedMade": "85.941000 km",
+      "es": null,
+      "total": 275,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "1134382.0000 km^2 s",
+      "place": "38",
+      "fractions": {
+        "time": 0,
+        "reach": 0.63733626,
+        "distance": 0.71790188,
+        "leading": 0,
+        "effort": 0.79834038,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "48",
+      "Victor Hare"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "78.920000 km",
+        "flown": "78.920000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 111.98,
+        "distance": 257.6,
+        "leading": 0,
+        "effort": 145.63,
+        "arrival": 0
+      },
+      "leadingCoef": 5.09305752,
+      "landedMade": "78.041000 km",
+      "es": null,
+      "total": 258,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "1195896.0000 km^2 s",
+      "place": "39",
+      "fractions": {
+        "time": 0,
+        "reach": 0.58441626,
+        "distance": 0.67223382,
+        "leading": 0,
+        "effort": 0.7600334,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "71",
+      "Chris Czajkowski"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "74.155000 km",
+        "flown": "74.155000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 105.22,
+        "distance": 244.3,
+        "leading": 0,
+        "effort": 139.06,
+        "arrival": 0
+      },
+      "leadingCoef": 4.95923474,
+      "landedMade": "74.137000 km",
+      "es": null,
+      "total": 244,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "1164473.0000 km^2 s",
+      "place": "40",
+      "fractions": {
+        "time": 0,
+        "reach": 0.54913627,
+        "distance": 0.6375261,
+        "leading": 0,
+        "effort": 0.725745,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "93",
+      "Viv Clements"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "74.143000 km",
+        "flown": "74.143000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 105.2,
+        "distance": 244.2,
+        "leading": 0,
+        "effort": 139.04,
+        "arrival": 0
+      },
+      "leadingCoef": 5.49018092,
+      "landedMade": "74.140000 km",
+      "es": null,
+      "total": 244,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1289144.0000 km^2 s",
+      "place": "40",
+      "fractions": {
+        "time": 0,
+        "reach": 0.54903189,
+        "distance": 0.63726514,
+        "leading": 0,
+        "effort": 0.72564062,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "18",
+      "Rohan Taylor"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "71.678000 km",
+        "flown": "71.678000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 101.7,
+        "distance": 235.7,
+        "leading": 0,
+        "effort": 134,
+        "arrival": 0
+      },
+      "leadingCoef": 5.34939236,
+      "landedMade": "71.085000 km",
+      "es": null,
+      "total": 236,
+      "ss": "2015-01-01T03:15:00Z",
+      "leadingArea": "1256086.0000 km^2 s",
+      "place": "42",
+      "fractions": {
+        "time": 0,
+        "reach": 0.53076562,
+        "distance": 0.61508351,
+        "leading": 0,
+        "effort": 0.6993372,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "90",
+      "Sander Van Schaik"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "71.568000 km",
+        "flown": "71.568000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 101.55,
+        "distance": 235.3,
+        "leading": 0,
+        "effort": 133.75,
+        "arrival": 0
+      },
+      "leadingCoef": 5.14491633,
+      "landedMade": "71.129000 km",
+      "es": null,
+      "total": 235,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "1208073.0000 km^2 s",
+      "place": "43",
+      "fractions": {
+        "time": 0,
+        "reach": 0.52998278,
+        "distance": 0.61403967,
+        "leading": 0,
+        "effort": 0.69803246,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "75",
+      "Josh Woods"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "70.854000 km",
+        "flown": "70.854000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 100.54,
+        "distance": 232.1,
+        "leading": 0,
+        "effort": 131.58,
+        "arrival": 0
+      },
+      "leadingCoef": 5.3776956,
+      "landedMade": "70.463000 km",
+      "es": null,
+      "total": 232,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1262731.0000 km^2 s",
+      "place": "44",
+      "fractions": {
+        "time": 0,
+        "reach": 0.52471165,
+        "distance": 0.60568894,
+        "leading": 0,
+        "effort": 0.68670737,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "8",
+      "Federico Martini"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "65.850000 km",
+        "flown": "65.850000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 93.44,
+        "distance": 207,
+        "leading": 0,
+        "effort": 113.52,
+        "arrival": 0
+      },
+      "leadingCoef": 5.44241036,
+      "landedMade": "65.492000 km",
+      "es": null,
+      "total": 207,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1277927.0000 km^2 s",
+      "place": "45",
+      "fractions": {
+        "time": 0,
+        "reach": 0.48765722,
+        "distance": 0.54018789,
+        "leading": 0,
+        "effort": 0.59245342,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "5",
+      "Ryosuke Hattori"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "48.682000 km",
+        "flown": "48.682000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 69.08,
+        "distance": 130.9,
+        "leading": 0,
+        "effort": 61.8,
+        "arrival": 0
+      },
+      "leadingCoef": 6.10302055,
+      "landedMade": "48.283000 km",
+      "es": null,
+      "total": 131,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1433044.0000 km^2 s",
+      "place": "46",
+      "fractions": {
+        "time": 0,
+        "reach": 0.36052398,
+        "distance": 0.34159708,
+        "leading": 0,
+        "effort": 0.32253014,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "88",
+      "Emiel Jansen"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "48.563000 km",
+        "flown": "48.563000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 68.91,
+        "distance": 130.6,
+        "leading": 0,
+        "effort": 61.72,
+        "arrival": 0
+      },
+      "leadingCoef": 6.06234773,
+      "landedMade": "48.292000 km",
+      "es": null,
+      "total": 131,
+      "ss": "2015-01-01T02:45:00Z",
+      "leadingArea": "1423494.0000 km^2 s",
+      "place": "46",
+      "fractions": {
+        "time": 0,
+        "reach": 0.35963676,
+        "distance": 0.3408142,
+        "leading": 0,
+        "effort": 0.32211262,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "87",
+      "Yoko Isomoto"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "45.971000 km",
+        "flown": "45.971000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 65.23,
+        "distance": 123,
+        "leading": 0,
+        "effort": 57.73,
+        "arrival": 0
+      },
+      "leadingCoef": 6.26178125,
+      "landedMade": "45.290000 km",
+      "es": null,
+      "total": 123,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1470323.0000 km^2 s",
+      "place": "48",
+      "fractions": {
+        "time": 0,
+        "reach": 0.34043108,
+        "distance": 0.32098121,
+        "leading": 0,
+        "effort": 0.30128908,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "102",
+      "Peter Dall"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "38.449000 km",
+        "flown": "38.449000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 54.56,
+        "distance": 99.9,
+        "leading": 0,
+        "effort": 45.36,
+        "arrival": 0
+      },
+      "leadingCoef": 6.60022797,
+      "landedMade": "38.405000 km",
+      "es": null,
+      "total": 100,
+      "ss": "2015-01-01T03:00:00Z",
+      "leadingArea": "1549793.0000 km^2 s",
+      "place": "49",
+      "fractions": {
+        "time": 0,
+        "reach": 0.28474506,
+        "distance": 0.26069937,
+        "leading": 0,
+        "effort": 0.23673086,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "36",
+      "Enda Murphy"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.000000 km",
+        "flown": "0.000000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 14.19,
+        "distance": 29.8,
+        "leading": 0,
+        "effort": 15.65,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": null,
+      "total": 30,
+      "ss": null,
+      "leadingArea": "0.0000 km^2 s",
+      "place": "50",
+      "fractions": {
+        "time": 0,
+        "reach": 0.07405668,
+        "distance": 0.07776618,
+        "leading": 0,
+        "effort": 0.08167632,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "101",
+      "Adam Jones"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "2.911000 km",
+        "flown": "2.911000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 14.19,
+        "distance": 29.8,
+        "leading": 0,
+        "effort": 15.65,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": null,
+      "total": 30,
+      "ss": null,
+      "leadingArea": "0.0000 km^2 s",
+      "place": "50",
+      "fractions": {
+        "time": 0,
+        "reach": 0.07405668,
+        "distance": 0.07776618,
+        "leading": 0,
+        "effort": 0.08167632,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "69",
+      "Phil Seeley"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "104.817000 km",
+        "flown": "104.817000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 14.19,
+        "distance": 29.8,
+        "leading": 0,
+        "effort": 15.65,
+        "arrival": 0
+      },
+      "leadingCoef": 3.85019962,
+      "landedMade": "104.379000 km",
+      "es": null,
+      "total": 30,
+      "ss": "2015-01-01T02:38:14Z",
+      "leadingArea": "904062.0000 km^2 s",
+      "place": "50",
+      "fractions": {
+        "time": 0,
+        "reach": 0.07405668,
+        "distance": 0.07776618,
+        "leading": 0,
+        "effort": 0.08167632,
+        "arrival": 0
+      }
+    }
+  ]
+]

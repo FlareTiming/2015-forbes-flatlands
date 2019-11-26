@@ -1,0 +1,332 @@
+[
+  [
+    [
+      "3",
+      "Attila Bertok"
+    ],
+    {
+      "frac": 1,
+      "rank": "1"
+    }
+  ],
+  [
+    [
+      "52",
+      "Olav Olsen"
+    ],
+    {
+      "frac": 0.93530011,
+      "rank": "2"
+    }
+  ],
+  [
+    [
+      "94",
+      "Olav Opsanger"
+    ],
+    {
+      "frac": 0.87422089,
+      "rank": "3"
+    }
+  ],
+  [
+    [
+      "77",
+      "Gerolf Heinrichs"
+    ],
+    {
+      "frac": 0.81665665,
+      "rank": "4"
+    }
+  ],
+  [
+    [
+      "89",
+      "Gijs Wanders"
+    ],
+    {
+      "frac": 0.76250171,
+      "rank": "5"
+    }
+  ],
+  [
+    [
+      "51",
+      "Gavin Myers"
+    ],
+    {
+      "frac": 0.71165039,
+      "rank": "6"
+    }
+  ],
+  [
+    [
+      "73",
+      "Harrison Rowntree"
+    ],
+    {
+      "frac": 0.66399699,
+      "rank": "7"
+    }
+  ],
+  [
+    [
+      "62",
+      "Christian Voiblet"
+    ],
+    {
+      "frac": 0.61943585,
+      "rank": "8"
+    }
+  ],
+  [
+    [
+      "95",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "frac": 0.57786126,
+      "rank": "9"
+    }
+  ],
+  [
+    [
+      "85",
+      "Kato Minoru"
+    ],
+    {
+      "frac": 0.53916754,
+      "rank": "10"
+    }
+  ],
+  [
+    [
+      "28",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.50324902,
+      "rank": "11"
+    }
+  ],
+  [
+    [
+      "39",
+      "Jonny Durand"
+    ],
+    {
+      "frac": 0.47,
+      "rank": "12"
+    }
+  ],
+  [
+    [
+      "98",
+      "Gordon Rigg"
+    ],
+    {
+      "frac": 0.4393148,
+      "rank": "13"
+    }
+  ],
+  [
+    [
+      "6",
+      "Len Paton"
+    ],
+    {
+      "frac": 0.41108774,
+      "rank": "14"
+    }
+  ],
+  [
+    [
+      "33",
+      "Filippo Oppici"
+    ],
+    {
+      "frac": 0.38521312,
+      "rank": "15"
+    }
+  ],
+  [
+    [
+      "34",
+      "Glen Mcfarlane"
+    ],
+    {
+      "frac": 0.36158527,
+      "rank": "16"
+    }
+  ],
+  [
+    [
+      "4",
+      "Jonas Lobitz"
+    ],
+    {
+      "frac": 0.34009851,
+      "rank": "17"
+    }
+  ],
+  [
+    [
+      "24",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 0.32064713,
+      "rank": "18"
+    }
+  ],
+  [
+    [
+      "2",
+      "Andrew Barnes"
+    ],
+    {
+      "frac": 0.30312547,
+      "rank": "19"
+    }
+  ],
+  [
+    [
+      "72",
+      "Grant Heaney"
+    ],
+    {
+      "frac": 0.28742783,
+      "rank": "20"
+    }
+  ],
+  [
+    [
+      "83",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.27344853,
+      "rank": "21"
+    }
+  ],
+  [
+    [
+      "20",
+      "Nils Vesk"
+    ],
+    {
+      "frac": 0.26108189,
+      "rank": "22"
+    }
+  ],
+  [
+    [
+      "79",
+      "Jochen Zeischka"
+    ],
+    {
+      "frac": 0.25022222,
+      "rank": "23"
+    }
+  ],
+  [
+    [
+      "37",
+      "Jon snr Durand"
+    ],
+    {
+      "frac": 0.24076384,
+      "rank": "24"
+    }
+  ],
+  [
+    [
+      "42",
+      "Trent Brown"
+    ],
+    {
+      "frac": 0.23260105,
+      "rank": "25"
+    }
+  ],
+  [
+    [
+      "30",
+      "Phil Schroder"
+    ],
+    {
+      "frac": 0.22562818,
+      "rank": "26"
+    }
+  ],
+  [
+    [
+      "14",
+      "Mikhail Karmazin"
+    ],
+    {
+      "frac": 0.21973954,
+      "rank": "27"
+    }
+  ],
+  [
+    [
+      "99",
+      "Zac Majors"
+    ],
+    {
+      "frac": 0.21482945,
+      "rank": "28"
+    }
+  ],
+  [
+    [
+      "58",
+      "Mark Russell"
+    ],
+    {
+      "frac": 0.21079222,
+      "rank": "29"
+    }
+  ],
+  [
+    [
+      "40",
+      "Lukas Bader"
+    ],
+    {
+      "frac": 0.20752216,
+      "rank": "30"
+    }
+  ],
+  [
+    [
+      "103",
+      "Conrad Loten"
+    ],
+    {
+      "frac": 0.2049136,
+      "rank": "31"
+    }
+  ],
+  [
+    [
+      "80",
+      "Dale Regehr"
+    ],
+    {
+      "frac": 0.20286084,
+      "rank": "32"
+    }
+  ],
+  [
+    [
+      "86",
+      "Takeshi Yokoyama"
+    ],
+    {
+      "frac": 0.2012582,
+      "rank": "33"
+    }
+  ]
+]

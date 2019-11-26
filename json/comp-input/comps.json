@@ -1,0 +1,22 @@
+{
+  "civilId": "3562",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "Forbes, Australia",
+  "to": "2015-01-08",
+  "compName": "Forbes Flatlands Hang Gliding Championships 2015",
+  "from": "2015-01-01",
+  "utcOffset": {
+    "timeZoneMinutes": 660
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": null
+}

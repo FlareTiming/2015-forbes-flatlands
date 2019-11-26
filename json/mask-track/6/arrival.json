@@ -1,0 +1,362 @@
+[
+  [
+    [
+      "24",
+      "Steve Blenkinsop"
+    ],
+    {
+      "frac": 1,
+      "rank": "1"
+    }
+  ],
+  [
+    [
+      "45",
+      "Geoff Robertson"
+    ],
+    {
+      "frac": 0.94055202,
+      "rank": "2"
+    }
+  ],
+  [
+    [
+      "83",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.88415381,
+      "rank": "3"
+    }
+  ],
+  [
+    [
+      "39",
+      "Jonny Durand"
+    ],
+    {
+      "frac": 0.83072396,
+      "rank": "4"
+    }
+  ],
+  [
+    [
+      "3",
+      "Attila Bertok"
+    ],
+    {
+      "frac": 0.78018107,
+      "rank": "5"
+    }
+  ],
+  [
+    [
+      "37",
+      "Jon snr Durand"
+    ],
+    {
+      "frac": 0.73244374,
+      "rank": "6"
+    }
+  ],
+  [
+    [
+      "79",
+      "Jochen Zeischka"
+    ],
+    {
+      "frac": 0.68743056,
+      "rank": "7"
+    }
+  ],
+  [
+    [
+      "42",
+      "Trent Brown"
+    ],
+    {
+      "frac": 0.64506012,
+      "rank": "8"
+    }
+  ],
+  [
+    [
+      "34",
+      "Glen Mcfarlane"
+    ],
+    {
+      "frac": 0.60525103,
+      "rank": "9"
+    }
+  ],
+  [
+    [
+      "85",
+      "Kato Minoru"
+    ],
+    {
+      "frac": 0.56792188,
+      "rank": "10"
+    }
+  ],
+  [
+    [
+      "1",
+      "Yasuhiro Noma"
+    ],
+    {
+      "frac": 0.53299126,
+      "rank": "11"
+    }
+  ],
+  [
+    [
+      "51",
+      "Gavin Myers"
+    ],
+    {
+      "frac": 0.50037776,
+      "rank": "12"
+    }
+  ],
+  [
+    [
+      "28",
+      "Guy Hubbard"
+    ],
+    {
+      "frac": 0.47,
+      "rank": "13"
+    }
+  ],
+  [
+    [
+      "73",
+      "Harrison Rowntree"
+    ],
+    {
+      "frac": 0.44177656,
+      "rank": "14"
+    }
+  ],
+  [
+    [
+      "95",
+      "Oyvind Ellefsen"
+    ],
+    {
+      "frac": 0.41562603,
+      "rank": "15"
+    }
+  ],
+  [
+    [
+      "4",
+      "Jonas Lobitz"
+    ],
+    {
+      "frac": 0.39146701,
+      "rank": "16"
+    }
+  ],
+  [
+    [
+      "99",
+      "Zac Majors"
+    ],
+    {
+      "frac": 0.36921811,
+      "rank": "17"
+    }
+  ],
+  [
+    [
+      "98",
+      "Gordon Rigg"
+    ],
+    {
+      "frac": 0.3487979,
+      "rank": "18"
+    }
+  ],
+  [
+    [
+      "94",
+      "Olav Opsanger"
+    ],
+    {
+      "frac": 0.330125,
+      "rank": "19"
+    }
+  ],
+  [
+    [
+      "33",
+      "Filippo Oppici"
+    ],
+    {
+      "frac": 0.31311799,
+      "rank": "20"
+    }
+  ],
+  [
+    [
+      "52",
+      "Olav Olsen"
+    ],
+    {
+      "frac": 0.29769547,
+      "rank": "21"
+    }
+  ],
+  [
+    [
+      "6",
+      "Len Paton"
+    ],
+    {
+      "frac": 0.28377604,
+      "rank": "22"
+    }
+  ],
+  [
+    [
+      "40",
+      "Lukas Bader"
+    ],
+    {
+      "frac": 0.27127829,
+      "rank": "23"
+    }
+  ],
+  [
+    [
+      "48",
+      "Victor Hare"
+    ],
+    {
+      "frac": 0.26012082,
+      "rank": "24"
+    }
+  ],
+  [
+    [
+      "2",
+      "Andrew Barnes"
+    ],
+    {
+      "frac": 0.25022222,
+      "rank": "25"
+    }
+  ],
+  [
+    [
+      "20",
+      "Nils Vesk"
+    ],
+    {
+      "frac": 0.24150109,
+      "rank": "26"
+    }
+  ],
+  [
+    [
+      "97",
+      "Sasha Serebrennikova"
+    ],
+    {
+      "frac": 0.23387603,
+      "rank": "27"
+    }
+  ],
+  [
+    [
+      "92",
+      "Simon Braithwaite"
+    ],
+    {
+      "frac": 0.22726562,
+      "rank": "28"
+    }
+  ],
+  [
+    [
+      "72",
+      "Grant Heaney"
+    ],
+    {
+      "frac": 0.22158848,
+      "rank": "29"
+    }
+  ],
+  [
+    [
+      "30",
+      "Phil Schroder"
+    ],
+    {
+      "frac": 0.21676318,
+      "rank": "30"
+    }
+  ],
+  [
+    [
+      "62",
+      "Christian Voiblet"
+    ],
+    {
+      "frac": 0.21270833,
+      "rank": "31"
+    }
+  ],
+  [
+    [
+      "8",
+      "Federico Martini"
+    ],
+    {
+      "frac": 0.20934253,
+      "rank": "32"
+    }
+  ],
+  [
+    [
+      "18",
+      "Rohan Taylor"
+    ],
+    {
+      "frac": 0.20658436,
+      "rank": "33"
+    }
+  ],
+  [
+    [
+      "5",
+      "Ryosuke Hattori"
+    ],
+    {
+      "frac": 0.20435243,
+      "rank": "34"
+    }
+  ],
+  [
+    [
+      "103",
+      "Conrad Loten"
+    ],
+    {
+      "frac": 0.20256533,
+      "rank": "35"
+    }
+  ],
+  [
+    [
+      "87",
+      "Yoko Isomoto"
+    ],
+    {
+      "frac": 0.20114165,
+      "rank": "36"
+    }
+  ]
+]
