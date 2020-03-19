@@ -108,14 +108,30 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [
       "2015-01-01T02:45:00Z",
       "2015-01-01T03:00:00Z",
       "2015-01-01T03:15:00Z",
       "2015-01-01T03:30:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "14",
+          "Mikhail Karmazin"
+        ],
+        [
+          {
+            "penalty-points": 30.3333333333333
+          }
+        ],
+        "Jumped the gun by 1:31"
+      ]
     ],
     "penals": [
       [
@@ -150,6 +166,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -263,8 +280,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [
       "2015-01-02T02:45:00Z",
@@ -273,6 +292,7 @@
       "2015-01-02T03:30:00Z",
       "2015-01-02T03:45:00Z"
     ],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -330,6 +350,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -443,8 +464,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [
       "2015-01-03T02:45:00Z",
@@ -452,6 +475,44 @@
       "2015-01-03T03:15:00Z",
       "2015-01-03T03:30:00Z",
       "2015-01-03T03:45:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "58",
+          "Mark Russell"
+        ],
+        [
+          {
+            "penalty-points": 5.33333333333333
+          }
+        ],
+        "Jumped the gun by 0:16"
+      ],
+      [
+        [
+          "8",
+          "Federico Martini"
+        ],
+        [
+          {
+            "penalty-points": 19
+          }
+        ],
+        "Jumped the gun by 0:57"
+      ],
+      [
+        [
+          "40",
+          "Lukas Bader"
+        ],
+        [
+          {
+            "penalty-points": 4.66666666666667
+          }
+        ],
+        "Jumped the gun by 0:14"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -461,6 +522,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -574,8 +636,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [
       "2015-01-06T02:45:00Z",
@@ -584,6 +648,7 @@
       "2015-01-06T03:30:00Z",
       "2015-01-06T03:45:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -608,6 +673,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -706,8 +772,10 @@
       "retroactive": "2015-01-07T05:15:00Z"
     },
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [
       "2015-01-07T03:00:00Z",
@@ -715,6 +783,7 @@
       "2015-01-07T03:30:00Z",
       "2015-01-07T03:45:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -723,6 +792,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }
@@ -836,14 +906,30 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": true
     },
     "startGates": [
       "2015-01-08T02:45:00Z",
       "2015-01-08T03:00:00Z",
       "2015-01-08T03:15:00Z",
       "2015-01-08T03:30:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "80",
+          "Dale Regehr"
+        ],
+        [
+          {
+            "penalty-points": 41.6666666666667
+          }
+        ],
+        "Jumped the gun by 2:05"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -853,6 +939,7 @@
       }
     ],
     "earlyStart": {
+      "tooEarlyReset": 0,
       "earlyPenalty": "3 s",
       "earliest": "300 s"
     }

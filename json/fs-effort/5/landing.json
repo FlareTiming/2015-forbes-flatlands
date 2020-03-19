@@ -10,7 +10,7 @@
     ],
     "sumOf": 3366
   },
-  "bestDistance": null,
+  "bestDistance": "112.169000 km",
   "difficulty": [
     {
       "endChunk": "16.7 km",
@@ -457,25 +457,25 @@
       "frac": 0.29114676,
       "downers": [
         [
-          "92",
-          "Simon Braithwaite"
-        ],
-        [
           "2",
           "Andrew Barnes"
         ],
         [
           "39",
           "Jonny Durand"
+        ],
+        [
+          "92",
+          "Simon Braithwaite"
         ]
       ],
       "downward": 8,
       "rel": 0.00163399,
       "endAhead": "101.8 km",
       "downs": [
-        "95.294 km",
         "95.212 km",
-        "95.272 km"
+        "95.272 km",
+        "95.294 km"
       ]
     },
     {
@@ -685,16 +685,16 @@
           "Jonas Lobitz"
         ],
         [
-          "73",
-          "Harrison Rowntree"
-        ],
-        [
           "83",
           "Tullio Gervasoni"
         ],
         [
           "94",
           "Olav Opsanger"
+        ],
+        [
+          "73",
+          "Harrison Rowntree"
         ]
       ],
       "downward": 9,
@@ -702,9 +702,9 @@
       "endAhead": "110.4 km",
       "downs": [
         "103.853 km",
-        "103.896 km",
         "103.888 km",
-        "103.894 km"
+        "103.894 km",
+        "103.896 km"
       ]
     },
     {
@@ -715,50 +715,50 @@
       "frac": 0.48915627,
       "downers": [
         [
-          "62",
-          "Christian Voiblet"
-        ],
-        [
-          "24",
-          "Steve Blenkinsop"
-        ],
-        [
-          "99",
-          "Zac Majors"
-        ],
-        [
           "1",
           "Yasuhiro Noma"
         ],
         [
-          "79",
-          "Jochen Zeischka"
-        ],
-        [
-          "85",
-          "Kato Minoru"
+          "62",
+          "Christian Voiblet"
         ],
         [
           "98",
           "Gordon Rigg"
         ],
         [
+          "79",
+          "Jochen Zeischka"
+        ],
+        [
+          "24",
+          "Steve Blenkinsop"
+        ],
+        [
           "77",
           "Gerolf Heinrichs"
+        ],
+        [
+          "85",
+          "Kato Minoru"
+        ],
+        [
+          "99",
+          "Zac Majors"
         ]
       ],
       "downward": 1,
       "rel": 0.0013369,
       "endAhead": "110.5 km",
       "downs": [
-        "103.908 km",
-        "103.928 km",
-        "103.951 km",
         "103.901 km",
-        "103.911 km",
-        "103.936 km",
+        "103.908 km",
         "103.909 km",
-        "103.933 km"
+        "103.911 km",
+        "103.928 km",
+        "103.933 km",
+        "103.936 km",
+        "103.951 km"
       ]
     },
     {
@@ -801,6 +801,6 @@
     }
   ],
   "lookahead": 66,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 51
 }

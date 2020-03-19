@@ -10,7 +10,7 @@
     ],
     "sumOf": 2852
   },
-  "bestDistance": null,
+  "bestDistance": "121.228000 km",
   "difficulty": [
     {
       "endChunk": "10.1 km",
@@ -20,20 +20,20 @@
       "frac": 0.08853436,
       "downers": [
         [
-          "90",
-          "Sander Van Schaik"
-        ],
-        [
-          "86",
-          "Takeshi Yokoyama"
+          "101",
+          "Adam Jones"
         ],
         [
           "14",
           "Mikhail Karmazin"
         ],
         [
-          "101",
-          "Adam Jones"
+          "90",
+          "Sander Van Schaik"
+        ],
+        [
+          "86",
+          "Takeshi Yokoyama"
         ]
       ],
       "downward": 1,
@@ -238,6 +238,6 @@
     }
   ],
   "lookahead": 260,
-  "minDistance": "0.000 km",
+  "minDistance": "10.000 km",
   "landout": 14
 }
