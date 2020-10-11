@@ -125,11 +125,15 @@
           "14",
           "Mikhail Karmazin"
         ],
-        [
-          {
-            "penalty-points": 30.3333333333333
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -30.3333333333333
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 1:31"
       ]
     ],
@@ -139,11 +143,15 @@
           "85",
           "Kato Minoru"
         ],
-        [
-          {
-            "penalty-fraction": 0.3
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.7
+            }
+          ]
+        },
         "Altitude violation of 04:36min - 20%\r\nAltitude violation of 01:35min - 10%"
       ],
       [
@@ -151,11 +159,15 @@
           "40",
           "Lukas Bader"
         ],
-        [
-          {
-            "penalty-fraction": 0.2
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.8
+            }
+          ]
+        },
         "Altitude violation of 01:15 - 10%\r\nAltitude violation of 01:46 - 10%"
       ]
     ],
@@ -299,11 +311,15 @@
           "88",
           "Emiel Jansen"
         ],
-        [
-          {
-            "penalty-fraction": 0.1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
         "Altitude violation of 03:05 - 10%"
       ],
       [
@@ -311,11 +327,15 @@
           "75",
           "Josh Woods"
         ],
-        [
-          {
-            "penalty-fraction": 0.1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
         "Altitude violation of 01:41 - 10%"
       ],
       [
@@ -323,11 +343,15 @@
           "103",
           "Conrad Loten"
         ],
-        [
-          {
-            "penalty-fraction": 0.2
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.8
+            }
+          ]
+        },
         "Altitude violation of 01:21 - 10%\r\nAltitude violation of 01:30 - 10%"
       ],
       [
@@ -335,11 +359,15 @@
           "97",
           "Sasha Serebrennikova"
         ],
-        [
-          {
-            "penalty-fraction": 0.1
-          }
-        ],
+        {
+          "adds": [],
+          "resets": [],
+          "muls": [
+            {
+              "penalty-fraction": 0.9
+            }
+          ]
+        },
         "Altitude violation of 01:55 - 10%"
       ]
     ],
@@ -482,11 +510,15 @@
           "58",
           "Mark Russell"
         ],
-        [
-          {
-            "penalty-points": 5.33333333333333
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -5.33333333333333
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:16"
       ],
       [
@@ -494,11 +526,15 @@
           "8",
           "Federico Martini"
         ],
-        [
-          {
-            "penalty-points": 19
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -19
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:57"
       ],
       [
@@ -506,11 +542,15 @@
           "40",
           "Lukas Bader"
         ],
-        [
-          {
-            "penalty-points": 4.66666666666667
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -4.66666666666667
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 0:14"
       ]
     ],
@@ -923,11 +963,15 @@
           "80",
           "Dale Regehr"
         ],
-        [
-          {
-            "penalty-points": 41.6666666666667
-          }
-        ],
+        {
+          "adds": [
+            {
+              "penalty-points": -41.6666666666667
+            }
+          ],
+          "resets": [],
+          "muls": []
+        },
         "Jumped the gun by 2:05"
       ]
     ],
